@@ -1,0 +1,7 @@
+#include <iostream>
+
+using namespace std;
+
+ItemType::ItemType() {
+    cout << "This is ItemType!" << endl;
+}
